@@ -2,6 +2,8 @@
 
 This is a template repo for **training and publishing your own custom [DreamBooth](https://replicate.com/blog/dreambooth-api) model** using Replicate and GitHub Actions.
 
+Added custom pics
+
 ## Preqrequisites
 
 - A paid [Replicate](https://replicate.com/account) account
